@@ -1,0 +1,14 @@
+.DS_Store
+OSM/.DS_Store
+OSM/east_bay.gpkg
+OSM/exercise08_example_gasteiz.html
+OSM/exercise08_solution.ipynb
+OSM/lecture08_osm.key
+OSM/lecture08_osm.pdf
+OSM/lecture08.ipynb
+OSM/network.gpkg
+OSM/network.graphml
+OSM/osmnx_custom_filters.ipynb
+OSM/files/.DS_Store
+OSM/files/frb_buildings.png
+OSM/files/roskildevej.jpg
