@@ -12,7 +12,7 @@ We will update this page by June 2023. In the meanwhile, check out our open cour
 
 Before the workshop, please install the `gds_env` by Dani Arribas-Bel and the Geographic Data Science Lab: <https://darribas.org/gds_env/>
 
-For the tutorial, we will need the [gds_py](<https://darribas.org/gds_env/stacks/gds_py/>) version.
+For the tutorial, you will need the [gds_py](<https://darribas.org/gds_env/stacks/gds_py/>) version.
 
 <!-- ADD WHICH VERSION TO INSTALL? -->
 
@@ -55,3 +55,11 @@ See also the excellent introductions to geographic data analysis with Python by 
 <!-- Add resources specifically for the intro part (Geopandas, map projections, choropleths, etc) -->
 
 <!-- Add resources specifically for osm and osmnx) -->
+
+### OpenStreetMap
+
+**TBA**
+
+### Spatial Networks
+
+**TBA**
