@@ -1,28 +1,16 @@
 # Geospatial Data Science Tutorial for IC2S2'23
 
-This is the resource page for the Geospatial Data Science Tutorial for the [9th International Conference on Computational Social Science (IC2S2'23)](https://www.ic2s2.org/), July 17th, 2023 in Copenhagen.
-
-Tutorial synopsis: [https://www.ic2s2.org/tutorials.html#geospatial](https://www.ic2s2.org/tutorials.html#geospatial)
-
-We will update this page by June 2023. In the meanwhile, check out our open course materials from [Geospatial Data Science](https://github.com/mszell/geospatialdatascience), on which this tutorial will be based. See you in Copenhagen! 👋
-
--- Michael, Ane, and Anastassia
+This is the resource page for the [Geospatial Data Science Tutorial]((https://www.ic2s2.org/tutorials.html#geospatial)) for the [9th International Conference on Computational Social Science (IC2S2'23)](https://www.ic2s2.org/), July 17th, 2023 in Copenhagen.
 
 ## Preparations 💻
 
-<!-- Maybe move to further down? -->
+*Before the tutorial*, install `gds_py` (version 9.0) from `gds_env`: [https://darribas.org/gds\_env/stacks/gds\_py/#install](https://darribas.org/gds_env/stacks/gds_py/#install)
 
-Before the workshop, please install the `gds_env` by Dani Arribas-Bel and the Geographic Data Science Lab: <https://darribas.org/gds_env/>
+We recommend using the Docker image according to the [instructions](https://darribas.org/gds_env/guides/docker_install/), but a conda version is also available. The Docker image will require 4 GB of storage space. 
 
-For the tutorial, you will need the [gds_py](<https://darribas.org/gds_env/stacks/gds_py/>) version.
+When done with the installations, test that you can run the notebooks. We will use them during the tutorial:
 
-<!-- ADD WHICH VERSION TO INSTALL? -->
-
-We recommend using the Docker image according to the the [instructions](https://darribas.org/gds_env/guides/docker_install/), but a conda version is also available. Please note that the Docker image will require around 4 GB of storage space.
-
-<!-- Do we require other preparations?? -->
-
-## Running the tutorial notebooks
+### Running the tutorial notebooks
 
 1. Clone this repository to download the Jupyter notebooks to your own machine:
 
@@ -44,9 +32,9 @@ docker run --rm -ti -p 8888:8888 -v ${PWD}:/home/jovyan/work darribas/gds_py:9.0
 
 <!-- - schedule markdown table +links to materials -->
 
-## About us
+## About us 🧑‍🏫
 
-We come from the research group [**NERDS**](<https://nerds.itu.dk/>) (NEtworks, Data & Society) @ the Computer Science Department, IT University of Copenhagen.
+We come from the research group [**NERDS**](<https://nerds.itu.dk/>) (NEtwoRks, Data & Society), Computer Science Department, IT University of Copenhagen.
 
 [**Michael Szell**](<http://michael.szell.net/>) is associate professor in Data Science at IT University of Copenhagen, and external researcher at ISI Foundation and at the Complexity Science Hub Vienna. His research quantifies the patterns behind interlinked human behavior and human-built structures through mining large-scale data sets. He follows an anti-disciplinary approach using methods from data science and network science. Michael's current focus is on sustainable urban mobility and urban data science. He has also developed several interactive data visualization platforms such as What the Street!?, and the award-winning massive multiplayer online game Pardus.
 
@@ -58,8 +46,7 @@ We come from the research group [**NERDS**](<https://nerds.itu.dk/>) (NEtworks, 
 
 ## Resources 📚
 
-This tutorial is based on materials from our course in Geospatial Data Science, offered as part of the ITU master in data science.
-You can find the open course materials here: <https://github.com/mszell/geospatialdatascience>
+This tutorial is based on materials from our course in Geospatial Data Science, offered as part of the ITU master in data science: <https://github.com/mszell/geospatialdatascience>
 
 For a general introduction to Geospatial Data Science in Python, we recommend the book and course materials by Rey, Arribas-Bel and Wolf:
 
