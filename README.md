@@ -2,15 +2,15 @@
 
 This is the resource page for the [Geospatial Data Science Tutorial]((https://www.ic2s2.org/tutorials.html#geospatial)) for the [9th International Conference on Computational Social Science (IC2S2'23)](https://www.ic2s2.org/), July 17th, 2023 in Copenhagen.
 
-## Preparations 💻
+## 💻 Preparations
 
 *Before the tutorial*, install `gds_py` (version 9.0) from `gds_env`: [https://darribas.org/gds\_env/stacks/gds\_py/#install](https://darribas.org/gds_env/stacks/gds_py/#install)
 
 We recommend using the Docker image according to the [instructions](https://darribas.org/gds_env/guides/docker_install/), but a conda version is also available. The Docker image will require 4 GB of storage space. 
 
-When done with the installations, test that you can run the notebooks. We will use them during the tutorial:
+When done with the installations, test that you can run the notebooks. We will use them during the tutorial.
 
-### Running the tutorial notebooks
+## 🕹️ Running the notebooks
 
 1. Clone this repository to download the Jupyter notebooks to your own machine:
 
@@ -26,13 +26,13 @@ docker run --rm -ti -p 8888:8888 -v ${PWD}:/home/jovyan/work darribas/gds_py:9.0
 
 3. You can now run the Jupyter notebooks using either Jupyter in the browser (use the link printed in your terminal window) or with your code editor of choice. In VS Code choose 'Select kernel' > 'Existing Jupyter Server' and the server name will appear.
 
-## Schedule 📅
+## 📅 Schedule
 
 **TBA**
 
 <!-- - schedule markdown table +links to materials -->
 
-## About us 🧑‍🏫
+## 🧑‍🏫 About us 
 
 We come from the research group [**NERDS**](<https://nerds.itu.dk/>) (NEtwoRks, Data & Society), Computer Science Department, IT University of Copenhagen.
 
@@ -44,7 +44,7 @@ We come from the research group [**NERDS**](<https://nerds.itu.dk/>) (NEtwoRks, 
 
 **Get in touch:** Michael Szell: <misz@itu.dk> • Anastiasia Vybornova: <anvy@itu.dk> • Ane Rahbek Vierø: <anev@itu.dk>
 
-## Resources 📚
+## 📚 Resources 
 
 This tutorial is based on materials from our course in Geospatial Data Science, offered as part of the ITU master in data science: <https://github.com/mszell/geospatialdatascience>
 
