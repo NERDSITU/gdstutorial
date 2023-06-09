@@ -10,6 +10,8 @@ We will update this page by June 2023. In the meanwhile, check out our open cour
 
 ## Preparations 💻
 
+<!-- Maybe move to further down? -->
+
 Before the workshop, please install the `gds_env` by Dani Arribas-Bel and the Geographic Data Science Lab: <https://darribas.org/gds_env/>
 
 For the tutorial, you will need the [gds_py](<https://darribas.org/gds_env/stacks/gds_py/>) version.
@@ -19,6 +21,22 @@ For the tutorial, you will need the [gds_py](<https://darribas.org/gds_env/stack
 We recommend using the Docker image according to the the [instructions](https://darribas.org/gds_env/guides/docker_install/), but a conda version is also available. Please note that the Docker image will require around 4 GB of storage space.
 
 <!-- Do we require other preparations?? -->
+
+## Running the tutorial notebooks
+
+1. Clone this repository to download the Jupyter notebooks to your own machine:
+
+```
+git clone https://github.com/NERDSITU/gdstutorial
+```
+
+2. Run the Docker image: Navigate to the folder with the course materials in a terminal window and run:
+
+```
+docker run --rm -ti -p 8888:8888 -v ${PWD}:/home/jovyan/work darribas/gds_py:9.0
+```
+
+3. You can now run the Jupyter notebooks using either Jupyter in the browser (use the link printed in your terminal window) or with your code editor of choice. In VS Code choose 'Select kernel' > 'Existing Jupyter Server' and the server name will appear.
 
 ## Schedule 📅
 
