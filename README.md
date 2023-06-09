@@ -1,6 +1,6 @@
 # Geospatial Data Science Tutorial for IC2S2'23
 
-This is the resource page for the [Geospatial Data Science Tutorial]((https://www.ic2s2.org/tutorials.html#geospatial)) for the [9th International Conference on Computational Social Science (IC2S2'23)](https://www.ic2s2.org/), July 17th, 2023 in Copenhagen.
+This is the resource page for the [Geospatial Data Science Tutorial](https://www.ic2s2.org/tutorials.html#geospatial) for the [9th International Conference on Computational Social Science (IC2S2'23)](https://www.ic2s2.org/), July 17th, 2023 in Copenhagen.
 
 ## 💻 Preparations
 
@@ -27,8 +27,22 @@ docker run --rm -ti -p 8888:8888 -v ${PWD}:/home/jovyan/work darribas/gds_py:9.0
 3. You can now run the Jupyter notebooks using either Jupyter in the browser (use the link printed in your terminal window) or with your code editor of choice. In VS Code choose 'Select kernel' > 'Existing Jupyter Server' and the server name will appear.
 
 ## 📅 Schedule
+Preliminary schedule, subject to change
 
-**TBA**
+| July 17, 2023 | Part | Session |
+|--------------:|-----:|-----------:|
+| [TBD+0]:00 - [TBD+0]:05 |   |        Introduction  |
+| [TBD+0]:05 - [TBD+0]:20 |  1. Basics |        Lecture: Data formats, CRS, libraries  |
+| [TBD+0]:20 - [TBD+0]:40 |  1. Basics |        Hands-on: Data formats, CRS, libraries  |
+| [TBD+0]:40 - [TBD+0]:45 |  1. Basics |        *5 min break*  |
+| [TBD+0]:45 - [TBD+1]:05 |  1. Basics |        Lecture: Choropleth maps, spatial autocorrelation  |
+| [TBD+1]:05 - [TBD+1]:25 |  1. Basics |        Hands-on: Choropleth maps, spatial autocorrelation  |
+| [TBD+1]:25 - [TBD+1]:35 |   |        *10 min break*  |
+| [TBD+1]:35 - [TBD+1]:55 |  2. OSM |        Lecture: OSM, spatial networks  |
+| [TBD+1]:55 - [TBD+2]:15 |  2. OSM |        Hands-on: OSM, spatial networks  |
+| [TBD+2]:15 - [TBD+2]:20 |  2. OSM |        *5 min break*  |
+| [TBD+2]:20 - [TBD+2]:40 |  2. OSM |        Lecture: Bicycle networks  |
+| [TBD+2]:40 - [TBD+3]:00 |  2. OSM |        Hands-on: Bicycle networks  |
 
 <!-- - schedule markdown table +links to materials -->
 
