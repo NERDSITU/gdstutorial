@@ -31,18 +31,18 @@ Preliminary schedule, subject to change
 
 | July 17, 2023 | Part | Session |
 |--------------:|-----:|-----------:|
-| [TBD+0]:00 - [TBD+0]:05 |   |        Introduction  |
-| [TBD+0]:05 - [TBD+0]:20 |  1. Basics |        Lecture: Data formats, CRS, libraries  |
-| [TBD+0]:20 - [TBD+0]:40 |  1. Basics |        Hands-on: Data formats, CRS, libraries  |
-| [TBD+0]:40 - [TBD+0]:45 |  1. Basics |        *5 min break*  |
-| [TBD+0]:45 - [TBD+1]:05 |  1. Basics |        Lecture: Choropleth maps, spatial autocorrelation  |
-| [TBD+1]:05 - [TBD+1]:25 |  1. Basics |        Hands-on: Choropleth maps, spatial autocorrelation  |
-| [TBD+1]:25 - [TBD+1]:35 |   |        *10 min break*  |
-| [TBD+1]:35 - [TBD+1]:55 |  2. OSM |        Lecture: OSM, spatial networks  |
-| [TBD+1]:55 - [TBD+2]:15 |  2. OSM |        Hands-on: OSM, spatial networks  |
-| [TBD+2]:15 - [TBD+2]:20 |  2. OSM |        *5 min break*  |
-| [TBD+2]:20 - [TBD+2]:40 |  2. OSM |        Lecture: Bicycle networks  |
-| [TBD+2]:40 - [TBD+3]:00 |  2. OSM |        Hands-on: Bicycle networks  |
+| 09:00 - 09:05 |   |        Introduction  |
+| 09:05 - 09:20 |  1. Basics |        Lecture: Data formats, CRS, libraries  |
+| 09:20 - 09:40 |  1. Basics |        Hands-on: Data formats, CRS, libraries  |
+| 09:40 - 09:50 |  1. Basics |        *10 min break*  |
+| 09:50 - 10:10 |  1. Basics |        Lecture: Choropleth maps, spatial autocorrelation  |
+| 10:10 - 10:30 |  1. Basics |        Hands-on: Choropleth maps, spatial autocorrelation  |
+| 10:30 - 10:50 |   |        *20 min break*  |
+| 10:50 - 11:10 |  2. OSM |        Lecture: OSM, spatial networks  |
+| 11:10 - 11:30 |  2. OSM |        Hands-on: OSM, spatial networks  |
+| 11:30 - 11:40 |  2. OSM |        *10 min break*  |
+| 11:40 - 12:00 |  2. OSM |        Lecture: Bicycle networks  |
+| 12:00 - 12:20 |  2. OSM |        Hands-on: Bicycle networks  |
 
 <!-- - schedule markdown table +links to materials -->
 
