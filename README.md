@@ -8,7 +8,7 @@ This is the resource page for the [Geospatial Data Science Tutorial](https://www
 
 We recommend using the Docker image according to the [instructions](https://darribas.org/gds_env/guides/docker_install/), but a conda version is also available. The Docker image will require 4 GB of storage space. 
 
-When done with the installations, test that you can run the notebooks. We will use them during the tutorial.
+When done with the installations, test that the notebook [installtest.ipynb](installtest.ipynb) runs without errors. We will use its imported libraries during the tutorial.
 
 ## 🕹️ Running the notebooks
 
