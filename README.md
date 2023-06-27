@@ -27,7 +27,6 @@ docker run --rm -ti -p 8888:8888 -v ${PWD}:/home/jovyan/work darribas/gds_py:9.0
 3. You can now run the Jupyter notebooks using either Jupyter in the browser (use the link printed in your terminal window) or with your code editor of choice. In VS Code choose 'Select kernel' > 'Existing Jupyter Server' and the server name will appear.
 
 ## 📅 Schedule
-Preliminary schedule, subject to change
 
 | July 17, 2023 | Part | Session |
 |--------------:|-----:|-----------:|
@@ -37,12 +36,12 @@ Preliminary schedule, subject to change
 | 09:40 - 09:50 |  1. Basics |        *10 min break*  |
 | 09:50 - 10:10 |  1. Basics |        Lecture: Choropleth maps, Spatial autocorrelation  |
 | 10:10 - 10:30 |  1. Basics |        Hands-on: Choropleth maps, Spatial autocorrelation  |
-| 10:30 - 10:50 |   |        *20 min break*  |
-| 10:50 - 11:10 |  2. OSM |        Lecture: OSM, Spatial networks  |
-| 11:10 - 11:30 |  2. OSM |        Hands-on: OSM, Spatial networks  |
-| 11:30 - 11:40 |  2. OSM |        *10 min break*  |
-| 11:40 - 12:00 |  2. OSM |        Lecture: Bicycle networks  |
-| 12:00 - 12:20 |  2. OSM |        Hands-on: Bicycle networks  |
+| 10:30 - 11:00 |   |        *30 min break*  |
+| 11:00 - 11:20 |  2. OSM |        Lecture: OSM, Spatial networks  |
+| 11:20 - 11:40 |  2. OSM |        Hands-on: OSM, Spatial networks  |
+| 11:40 - 11:50 |  2. OSM |        *10 min break*  |
+| 11:50 - 12:10 |  2. OSM |        Lecture: Bicycle networks  |
+| 12:10 - 12:30 |  2. OSM |        Hands-on: Bicycle networks  |
 
 <!-- - schedule markdown table +links to materials -->
 
