@@ -32,14 +32,14 @@ Preliminary schedule, subject to change
 | July 17, 2023 | Part | Session |
 |--------------:|-----:|-----------:|
 | 09:00 - 09:05 |   |        Introduction  |
-| 09:05 - 09:20 |  1. Basics |        Lecture: Data formats, CRS, libraries  |
-| 09:20 - 09:40 |  1. Basics |        Hands-on: Data formats, CRS, libraries  |
+| 09:05 - 09:20 |  1. Basics |        Lecture: Data & Geometry, CRS, Libraries  |
+| 09:20 - 09:40 |  1. Basics |        Hands-on: Data & Geometry, CRS, Libraries  |
 | 09:40 - 09:50 |  1. Basics |        *10 min break*  |
-| 09:50 - 10:10 |  1. Basics |        Lecture: Choropleth maps, spatial autocorrelation  |
-| 10:10 - 10:30 |  1. Basics |        Hands-on: Choropleth maps, spatial autocorrelation  |
+| 09:50 - 10:10 |  1. Basics |        Lecture: Choropleth maps, Spatial autocorrelation  |
+| 10:10 - 10:30 |  1. Basics |        Hands-on: Choropleth maps, Spatial autocorrelation  |
 | 10:30 - 10:50 |   |        *20 min break*  |
-| 10:50 - 11:10 |  2. OSM |        Lecture: OSM, spatial networks  |
-| 11:10 - 11:30 |  2. OSM |        Hands-on: OSM, spatial networks  |
+| 10:50 - 11:10 |  2. OSM |        Lecture: OSM, Spatial networks  |
+| 11:10 - 11:30 |  2. OSM |        Hands-on: OSM, Spatial networks  |
 | 11:30 - 11:40 |  2. OSM |        *10 min break*  |
 | 11:40 - 12:00 |  2. OSM |        Lecture: Bicycle networks  |
 | 12:00 - 12:20 |  2. OSM |        Hands-on: Bicycle networks  |
