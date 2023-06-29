@@ -33,15 +33,15 @@ docker run --rm -ti -p 8888:8888 -v ${PWD}:/home/jovyan/work darribas/gds_py:9.0
 | 09:00 - 09:05 |   |        Introduction  |
 | 09:05 - 09:20 |  1. Basics |        Lecture: Data & Geometry, CRS, Libraries  |
 | 09:20 - 09:40 |  1. Basics |        Hands-on: Data & Geometry, CRS, Libraries  |
-| 09:40 - 09:50 |  1. Basics |        *10 min break*  |
-| 09:50 - 10:10 |  1. Basics |        Lecture: Choropleth maps, Spatial autocorrelation  |
-| 10:10 - 10:30 |  1. Basics |        Hands-on: Choropleth maps, Spatial autocorrelation  |
+| 09:40 - 09:45 |  1. Basics |        *5 min break*  |
+| 09:45 - 10:05 |  1. Basics |        Lecture: Choropleth maps, Spatial autocorrelation  |
+| 10:05 - 10:30 |  1. Basics |        Hands-on: Choropleth maps, Spatial autocorrelation  |
 | 10:30 - 11:00 |   |        *30 min break*  |
 | 11:00 - 11:20 |  2. OSM |        Lecture: OSM, Spatial networks  |
 | 11:20 - 11:40 |  2. OSM |        Hands-on: OSM, Spatial networks  |
-| 11:40 - 11:50 |  2. OSM |        *10 min break*  |
-| 11:50 - 12:10 |  2. OSM |        Lecture: Bicycle networks  |
-| 12:10 - 12:30 |  2. OSM |        Hands-on: Bicycle networks  |
+| 11:40 - 11:45 |  2. OSM |        *5 min break*  |
+| 11:45 - 12:05 |  2. OSM |        Lecture: Bicycle networks  |
+| 12:05 - 12:30 |  2. OSM |        Hands-on: Bicycle networks  |
 
 <!-- - schedule markdown table +links to materials -->
 
