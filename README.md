@@ -37,11 +37,10 @@ docker run --rm -ti -p 8888:8888 -v ${PWD}:/home/jovyan/work darribas/gds_py:9.0
 | 09:45 - 10:05 |  1. Basics |        Lecture: Choropleth maps, Spatial autocorrelation  |
 | 10:05 - 10:30 |  1. Basics |        Hands-on: Choropleth maps, Spatial autocorrelation  |
 | 10:30 - 11:00 |   |        *30 min break*  |
-| 11:00 - 11:20 |  2. OSM |        Lecture: OSM, Spatial networks  |
-| 11:20 - 11:40 |  2. OSM |        Hands-on: OSM, Spatial networks  |
+| 11:00 - 11:20 |  2. OSM |        Lecture: OSM  |
+| 11:20 - 11:40 |  2. OSM |        Hands-on: OSM  |
 | 11:40 - 11:45 |  2. OSM |        *5 min break*  |
-| 11:45 - 12:05 |  2. OSM |        Lecture: Bicycle networks  |
-| 12:05 - 12:30 |  2. OSM |        Hands-on: Bicycle networks  |
+| 11:45 - 12:30 |  3. Spatial Networks |        Workshop: Spatial Networks  |
 
 <!-- - schedule markdown table +links to materials -->
 
@@ -55,7 +54,7 @@ We come from the research group [**NERDS**](<https://nerds.itu.dk/>) (NEtwoRks, 
 
 [**Anastassia Vybornova**](https://github.com/anastassiavybornova) is a PhD fellow in Data Science at the IT University of Copenhagen. The goal of her PhD project is to support the sustainability shift of human mobility by means of data- driven bicycle network planning. Anastassia has a multidisciplinary background in Transcultural Communication, Technical Physics, and Environmental Science.
 
-**Get in touch:** Michael Szell: <misz@itu.dk> • Anastiasia Vybornova: <anvy@itu.dk> • Ane Rahbek Vierø: <anev@itu.dk>
+**Get in touch:** Michael Szell: <misz@itu.dk> • Anastassia Vybornova: <anvy@itu.dk> • Ane Rahbek Vierø: <anev@itu.dk>
 
 ## 📚 Resources 
 
@@ -80,4 +79,5 @@ See also the excellent introductions to geographic data analysis with Python by 
 
 ### Spatial Networks
 
-**TBA**
+* [GeoPandas](https://geopandas.org) python library
+* [GTFS](https://gtfs.org) - General Transit Feed Specification
