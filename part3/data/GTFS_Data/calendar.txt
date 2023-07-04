@@ -1,0 +1,8 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+CementerioDomingo(Tuvisa2023-06-05),0,0,0,0,0,0,1,20230101,20231231
+CementerioMiercoles(Tuvisa2023-06-05),0,0,1,0,0,0,0,20230101,20231231
+CementerioSabado(Tuvisa2023-06-05),0,0,0,0,0,1,0,20230101,20231231
+Domingos(Tuvisa2023-06-05),0,0,0,0,0,0,1,20230101,20231231
+Gautxori(Tuvisa2023-06-05),0,0,0,0,1,1,0,20230101,20231231
+Laborables(Tuvisa2023-06-05),1,1,1,1,1,0,0,20230101,20231231
+Sabados(Tuvisa2023-06-05),0,0,0,0,0,1,0,20230101,20231231

@@ -1,0 +1,743 @@
+table_name,field_name,language,translation,record_id
+stops,stop_name,eu,Bake kalea,1299
+stops,stop_name,es,Paz,1299
+stops,stop_name,eu,Antonio Machado / Pasabidea,1245
+stops,stop_name,es,Antonio Machado / Pasaje,1245
+stops,stop_name,eu,Arriurdina / Basaldea,1200
+stops,stop_name,es,Arriurdina / Basaldea,1200
+stops,stop_name,eu,Gamarrako atea / Deba,1092
+stops,stop_name,es,Portal Gamarra / Deba,1092
+stops,stop_name,eu,Salburua bulebarra,1234
+stops,stop_name,es,Bulevar Salburua 7,1234
+stops,stop_name,eu,Tomas Zumarraga Dohatsua,1171
+stops,stop_name,es,Bº Tomás Zumarraga 71,1171
+stops,stop_name,eu,Mendigorritxu,1366
+stops,stop_name,es,Mendigorritxu,1366
+stops,stop_name,eu,Zurrupitieta / Jundiz,1378
+stops,stop_name,es,Zurrupitieta / Jundiz,1378
+stops,stop_name,eu,Gaztelako atea,1152
+stops,stop_name,es,Castilla 47,1152
+stops,stop_name,eu,Jacinto Benavente,1080
+stops,stop_name,es,Jacinto Benavente 7,1080
+stops,stop_name,eu,Herrandarrak,1034
+stops,stop_name,es,Los Herrán 4,1034
+stops,stop_name,eu,Bake kalea,1011
+stops,stop_name,es,Paz,1011
+stops,stop_name,eu,Gaztelako atea,1140
+stops,stop_name,es,Castilla 80,1140
+stops,stop_name,eu,Oto hiribidea / Handizkariak,1193
+stops,stop_name,es,Av. Los Huetos / Mayoristas,1193
+stops,stop_name,eu,Tomas Zumarraga Dohatsua,1326
+stops,stop_name,es,Bº Tomás Zumarraga 34,1326
+stops,stop_name,eu,Teresa Kalkutakoa,1372
+stops,stop_name,es,Teresa Calcuta 15,1372
+stops,stop_name,eu,Europa,1025
+stops,stop_name,es,Europa,1025
+stops,stop_name,eu,Oto hiribidea / Ehari,1175
+stops,stop_name,es,Av. Los Huetos / Ali,1175
+stops,stop_name,eu,Areatza / Mercedes,1353
+stops,stop_name,es,Las Arenas / Mercedes,1353
+stops,stop_name,eu,Kanpoko Kontsultak,1356
+stops,stop_name,es,Consultas externas,1356
+stops,stop_name,eu,Zaramaga / Boulevard,1042
+stops,stop_name,es,Zaramaga / Boulevard,1042
+stops,stop_name,eu,Done Jakue hiribidea,1229
+stops,stop_name,es,Av. Santiago 46,1229
+stops,stop_name,eu,Esmaltazioak,1050
+stops,stop_name,es,Esmaltaciones,1050
+stops,stop_name,eu,Nazio Batuak,1227
+stops,stop_name,es,Naciones Unidas 1,1227
+stops,stop_name,eu,Pedro Asua,1070
+stops,stop_name,es,Pedro Asúa 12,1070
+stops,stop_name,eu,Giza Eskubideak / Sofia Erregina,1242
+stops,stop_name,es,Derechos Humanos / Reina Sofía,1242
+stops,stop_name,eu,Intermodala,1001
+stops,stop_name,es,Intermodal,1001
+stops,stop_name,eu,Bergarako atea,1087
+stops,stop_name,es,Portal Bergara 25,1087
+stops,stop_name,eu,Betoñuko atea / ID-arte,1107
+stops,stop_name,es,Portal Betoño / I.D. arte,1107
+stops,stop_name,eu,Giza Eskubideak / Sofia Erregina,1276
+stops,stop_name,es,Derechos Humanos / Reina Sofía,1276
+stops,stop_name,eu,Lermandabidea / Araneta,1365
+stops,stop_name,es,Lermandabidea / Araneta,1365
+stops,stop_name,eu,Oto hiribidea / Jeronimo Roure,1336
+stops,stop_name,es,Av. Los Huetos / Jerónimo Roure,1336
+stops,stop_name,eu,Txagorritxu,1386
+stops,stop_name,es,Txagorritxu,1386
+stops,stop_name,eu,Nafarroako Errege-Erreginak,1309
+stops,stop_name,es,Reyes Navarra 19,1309
+stops,stop_name,eu,Honduras,1023
+stops,stop_name,es,Honduras,1023
+stops,stop_name,eu,San Prudentzio hiribidea ,1143
+stops,stop_name,es,Av. San Prudencio,1143
+stops,stop_name,eu,Jose Mardones,1095
+stops,stop_name,es,José Mardones / Logroño,1095
+stops,stop_name,eu,Wellington,1261
+stops,stop_name,es,Wellington,1261
+stops,stop_name,eu,Paduleta / Uzbina,1203
+stops,stop_name,es,Paduleta / Uzbina,1203
+stops,stop_name,eu,Gaztelako atea,1138
+stops,stop_name,es,Castilla 36,1138
+stops,stop_name,eu,Bake kalea,1301
+stops,stop_name,es,Paz,1301
+stops,stop_name,eu,Giza Eskubideak,1243
+stops,stop_name,es,Derechos Humanos 34,1243
+stops,stop_name,eu,Paduleta / Uzbina,1207
+stops,stop_name,es,Paduleta / Uzbina,1207
+stops,stop_name,eu,Antonio Machado,1246
+stops,stop_name,es,Antonio Machado 58,1246
+stops,stop_name,eu,Domingo Beltran de Otazu ,1157
+stops,stop_name,es,Domingo Beltrán,1157
+stops,stop_name,eu,Koroatzea ,1158
+stops,stop_name,es,Coronación ,1158
+stops,stop_name,eu,Sofia Erregina ,1329
+stops,stop_name,es,Reina Sofía,1329
+stops,stop_name,eu,Buesa Arena,1314
+stops,stop_name,es,Buesa Arena,1314
+stops,stop_name,eu,Elorriagako atea / Anbulatorioa,1231
+stops,stop_name,es,Portal Elorriaga / Ambulatorio,1231
+stops,stop_name,eu,Lasarteko atea,1029
+stops,stop_name,es,Portal Lasarte,1029
+stops,stop_name,eu,Salbaterrabide,1030
+stops,stop_name,es,Salbatierrabide,1030
+stops,stop_name,eu,Elorriagako atea,1230
+stops,stop_name,es,Portal Elorriaga 6,1230
+stops,stop_name,eu,Juan Garai / Paraguai,1002
+stops,stop_name,es,Juan de Garay / Paraguay,1002
+stops,stop_name,eu,Pedro Asua,1059
+stops,stop_name,es,Pedro Asúa 12,1059
+stops,stop_name,eu,Larragana / Kapelamendi,1313
+stops,stop_name,es,Larragana / Kapelamendi,1313
+stops,stop_name,eu,Basoa ,1168
+stops,stop_name,es,Basoa,1168
+stops,stop_name,eu,Zuberoa plaza,1038
+stops,stop_name,es,Plaza Zuberoa,1038
+stops,stop_name,eu,Hilerria,1306
+stops,stop_name,es,Cementerio,1306
+stops,stop_name,eu,Gasteiz hiribidea,1020
+stops,stop_name,es,Av. Gasteiz 86,1020
+stops,stop_name,eu,Arriurdina / Jundiz,1209
+stops,stop_name,es,Arriurdina / Júndiz,1209
+stops,stop_name,eu,Iliada / Nadine Gordimer,1341
+stops,stop_name,es,Iliada / Nadine Gordimer,1341
+stops,stop_name,eu,Madril,1044
+stops,stop_name,es,Madrid 36,1044
+stops,stop_name,eu,Gaztelako atea / Prado,1153
+stops,stop_name,es,Castilla / Prado,1153
+stops,stop_name,eu,Salburua bulebarra / Atenas,1337
+stops,stop_name,es,Bulevar Salburua / Paseo de Atenas,1337
+stops,stop_name,eu,Iruña Veleia / Sofia Erregina,1381
+stops,stop_name,es,Iruña Veleia / Reina Sofía,1381
+stops,stop_name,eu,Valladolid,1007
+stops,stop_name,es,Valladolid 10,1007
+stops,stop_name,eu,Paula Montal / Etxe Gorriak,1320
+stops,stop_name,es,Paula Montal / Casas Rojas,1320
+stops,stop_name,eu,Nazio batuak / Salvador Dali,1323
+stops,stop_name,es,Naciones Unidas / Salvador Dalí,1323
+stops,stop_name,eu,Kainabenta,1267
+stops,stop_name,es,Venta la caña,1267
+stops,stop_name,eu,Nieves Cano / Unibertsitatea,1031
+stops,stop_name,es,Nieves Cano / Unibersitatea,1031
+stops,stop_name,eu,Gaztelako atea / Etxezarra,1139
+stops,stop_name,es,Castilla / Etxezarra,1139
+stops,stop_name,eu,Giza Eskubideak / Eskibel ibilbidea,1241
+stops,stop_name,es,Derechos Humanos / Paseo Eskibel,1241
+stops,stop_name,eu,Katedrala,1012
+stops,stop_name,es,Catedral,1012
+stops,stop_name,eu,Gamarrako atea,1118
+stops,stop_name,es,Portal Gamarra 3,1118
+stops,stop_name,eu,Jundiz / Paduleta,1208
+stops,stop_name,es,Jundiz / Paduleta,1208
+stops,stop_name,eu,Nieves Cano / Izardui Komandantea,1032
+stops,stop_name,es,Nieves Cano / Comandante Izarduy,1032
+stops,stop_name,eu,Legutianoko atea,1104
+stops,stop_name,es,Portal Legutiano 50,1104
+stops,stop_name,eu,Iruña Veleia / Sofia Erregina,1383
+stops,stop_name,es,Iruña Veleia / Reina Sofía,1383
+stops,stop_name,eu,Lermandabidea / Zuazobidea,1221
+stops,stop_name,es,Lermandabidea / Zuazobidea,1221
+stops,stop_name,eu,Aretxabaleta,1121
+stops,stop_name,es,Aretxabaleta,1121
+stops,stop_name,eu,Judimendi / San Jose,1008
+stops,stop_name,es,Judimendi / San José,1008
+stops,stop_name,eu,Done Jakue hiribidea,1009
+stops,stop_name,es,Av. Santiago 43,1009
+stops,stop_name,eu,Dura (herria),1086
+stops,stop_name,es,Durana Pueblo,1086
+stops,stop_name,eu,Alibarra / Handizkariak,1191
+stops,stop_name,es,Alibarra / Mayoristas,1191
+stops,stop_name,eu,Tomas Zumarraga Dohatsua,1393
+stops,stop_name,es,Bº Tomás Zumarraga 98,1393
+stops,stop_name,eu,Apaizgaitegia,1069
+stops,stop_name,es,Seminario,1069
+stops,stop_name,eu,Forondako atea,1131
+stops,stop_name,es,Portal Foronda 35,1131
+stops,stop_name,eu,Paula Montal / Etxe Gorriak,1321
+stops,stop_name,es,Paula Montal / Casas Rojas,1321
+stops,stop_name,eu,Jesus Guridi,1260
+stops,stop_name,es,Jesús Guridi,1260
+stops,stop_name,eu,Alibarra / Gobeu,1189
+stops,stop_name,es,Alibarra / Gobeo,1189
+stops,stop_name,eu,Buesa Arena,1110
+stops,stop_name,es,Buesa Arena,1110
+stops,stop_name,eu,Gaztelako atea,1150
+stops,stop_name,es,Castilla 107,1150
+stops,stop_name,eu,Oto hiribidea / Borinbizkarra,1174
+stops,stop_name,es,Av. Los Huetos / Borinbizkarra,1174
+stops,stop_name,eu,Armentia / Basilika,1148
+stops,stop_name,es,Armentia / Basílica,1148
+stops,stop_name,eu,Oto hiribidea / Mercedes,1195
+stops,stop_name,es,Av. Los Huetos / Mercedes,1195
+stops,stop_name,eu,Lermandabidea / Lotura-autobusa,1214
+stops,stop_name,es,Lermandabidea / Lanzadera,1214
+stops,stop_name,eu,Nazio Batuak,1239
+stops,stop_name,es,Naciones Unidas 1,1239
+stops,stop_name,eu,Zurbanoko atea / Biosfera,1315
+stops,stop_name,es,Portal Zurbano / Biosfera,1315
+stops,stop_name,eu,Aragoi,1047
+stops,stop_name,es,Aragón,1047
+stops,stop_name,eu,Apaizgaitegia,1355
+stops,stop_name,es,Seminario,1355
+stops,stop_name,eu,Bergarako atea / Eskalmendi,1318
+stops,stop_name,es,Portal Bergara / Eskalmendi,1318
+stops,stop_name,eu,Donostia / Baiona,1282
+stops,stop_name,es,Donostia / Baiona,1282
+stops,stop_name,eu,Forondako atea,1163
+stops,stop_name,es,Portal Foronda 64,1163
+stops,stop_name,eu,Basaldea / Zurrupitieta,1198
+stops,stop_name,es,Basaldea / Zurrupitieta,1198
+stops,stop_name,eu,Gaztelako atea,1141
+stops,stop_name,es,Castilla 120,1141
+stops,stop_name,eu,Bake kalea,1302
+stops,stop_name,es,Paz,1302
+stops,stop_name,eu,Jose Atxotegi,1062
+stops,stop_name,es,Jose Atxotegi 22,1062
+stops,stop_name,eu,Herrandarrak / Logroño,1036
+stops,stop_name,es,Los Herrán / Logroño,1036
+stops,stop_name,eu,Zaramaga / Gamarrako atea,1085
+stops,stop_name,es,Zaramaga / Portal Gamarra,1085
+stops,stop_name,eu,Florida / Judimendi,1370
+stops,stop_name,es,Florida / Judimendi,1370
+stops,stop_name,eu,Arriaga (herria),1273
+stops,stop_name,es,Arriaga / Pueblo,1273
+stops,stop_name,eu,Antonio Amat,1343
+stops,stop_name,es,Antonio Amat 47,1343
+stops,stop_name,eu,Valladolid,1102
+stops,stop_name,es,Valladolid 3,1102
+stops,stop_name,eu,Prado kalea,1295
+stops,stop_name,es,Prado,1295
+stops,stop_name,eu,Basaldea / Gerezpea,1199
+stops,stop_name,es,Basaldea / Gerezpea,1199
+stops,stop_name,eu,Paula Montal / Eskolapioak,1319
+stops,stop_name,es,Paula Montal / Escolapias,1319
+stops,stop_name,eu,Euskal Herria,1063
+stops,stop_name,es,Euskal Herria,1063
+stops,stop_name,eu,Ariniz,1205
+stops,stop_name,es,Ariñez,1205
+stops,stop_name,eu,Lermandabidea / Lotura-autobusa,1196
+stops,stop_name,es,Lermandabidea / Lanzadera,1196
+stops,stop_name,eu,Mintegia,1389
+stops,stop_name,es,Viveros,1389
+stops,stop_name,eu,Gamarrako atea,1125
+stops,stop_name,es,Portal Gamarra 46,1125
+stops,stop_name,eu,Hegoalde,1359
+stops,stop_name,es,Hegoalde,1359
+stops,stop_name,eu,Gamarra,1114
+stops,stop_name,es,Gamarra Mayor,1114
+stops,stop_name,eu,Oto hiribidea / Mercedes,1268
+stops,stop_name,es,Av. Los Huetos / Mercedes,1268
+stops,stop_name,eu,Madril / Valladolid,1237
+stops,stop_name,es,Madrid / Valladolid,1237
+stops,stop_name,eu,Kanpoko Kontsultak,1358
+stops,stop_name,es,Consultas externas,1358
+stops,stop_name,eu,Madril / Valladolid,1046
+stops,stop_name,es,Madrid / Valladolid,1046
+stops,stop_name,eu,San Ignacio,1135
+stops,stop_name,es,San Ignacio,1135
+stops,stop_name,eu,Fontetxako Gaztelua / Aretxaga,1058
+stops,stop_name,es,Castillo Fontecha / Aretxaga,1058
+stops,stop_name,eu,Donostia,1128
+stops,stop_name,es,Donostia 49,1128
+stops,stop_name,eu,Pedro Asua,1391
+stops,stop_name,es,Pedro Asúa 21,1391
+stops,stop_name,eu,Betoñuko atea / ID-arte,1090
+stops,stop_name,es,Portal Betoño / I.D. arte,1090
+stops,stop_name,eu,Izardui Komandantea / Zumakadi,1119
+stops,stop_name,es,Comandante Izarduy / Zumaquera,1119
+stops,stop_name,eu,Zurbanoko atea / Biosfera,1109
+stops,stop_name,es,Portal Zurbano / Biosfera,1109
+stops,stop_name,eu,Antonio Machado / Pasabidea,1263
+stops,stop_name,es,Antonio Machado / Pasaje,1263
+stops,stop_name,eu,Henry Morton Stanley / Ozeano Atlantikoa,1348
+stops,stop_name,es,Henry Morton Stanley / Océano Atlántico,1348
+stops,stop_name,eu,Iliada,1339
+stops,stop_name,es,Iliada 10,1339
+stops,stop_name,eu,Jose Atxotegi / Txagorritxu,1067
+stops,stop_name,es,Jose Atxotegi / Txagorritxu,1067
+stops,stop_name,eu,Manuel Iradier ,1096
+stops,stop_name,es,Manuel Iradier,1096
+stops,stop_name,eu,Valladolid / Andaluzia,1167
+stops,stop_name,es,Valladolid / Andalucía,1167
+stops,stop_name,eu,Izarbenta,1251
+stops,stop_name,es,Venta la Estrella 6,1251
+stops,stop_name,eu,Florida / Judimendi,1259
+stops,stop_name,es,Florida / Judimendi,1259
+stops,stop_name,eu,Frantzia / San Anton,1136
+stops,stop_name,es,Francia / San Antón,1136
+stops,stop_name,eu,Judimendi / San Jose,1101
+stops,stop_name,es,Judimendi / San José,1101
+stops,stop_name,eu,Txagorritxu,1357
+stops,stop_name,es,Txagorritxu,1357
+stops,stop_name,eu,Done Jakue hiribidea / Osakidetza,1010
+stops,stop_name,es,Av. Santiago / Sanidad,1010
+stops,stop_name,eu,Gaztelako atea,1151
+stops,stop_name,es,Castilla 67,1151
+stops,stop_name,eu,Adriano VI.a,1177
+stops,stop_name,es,Adriano VI 17,1177
+stops,stop_name,eu,Etxezarra,1283
+stops,stop_name,es,Etxezarra,1283
+stops,stop_name,eu,Zaramaga / Gamarrako atea,1043
+stops,stop_name,es,Zaramaga / Portal Gamarra,1043
+stops,stop_name,eu,Antonio Amat,1375
+stops,stop_name,es,Antonio Amat 24,1375
+stops,stop_name,eu,Brusela hiribidea,1235
+stops,stop_name,es,Av. Bruselas 7,1235
+stops,stop_name,eu,Zumakadi ,1077
+stops,stop_name,es,Zumaquera,1077
+stops,stop_name,eu,Jacinto Benavente / Florida,1049
+stops,stop_name,es,Jacinto Benavente / Florida,1049
+stops,stop_name,eu,Intermodala,1022
+stops,stop_name,es,Intermodal,1022
+stops,stop_name,eu,Zurrupitieta / Jundiz,1363
+stops,stop_name,es,Zurrupitieta / Jundiz,1363
+stops,stop_name,eu,Intermodala,1132
+stops,stop_name,es,Intermodal,1132
+stops,stop_name,eu,Madril / Andaluzia,1045
+stops,stop_name,es,Madrid / Andalucía,1045
+stops,stop_name,eu,Zabalgana,1369
+stops,stop_name,es,Zabalgana 38,1369
+stops,stop_name,eu,Betoñuko atea,1106
+stops,stop_name,es,Portal Betoño 16,1106
+stops,stop_name,eu,Iliada / Salburua bulebarra,1257
+stops,stop_name,es,Iliada / Bulevar Salburua,1257
+stops,stop_name,eu,Castro Urdiales ,1033
+stops,stop_name,es,Castro Urdiales,1033
+stops,stop_name,eu,Nazio Batuak / Unicefen ibilbidea,1324
+stops,stop_name,es,Naciones Unidas / Paseo Unicef,1324
+stops,stop_name,eu,Iruñea / Baiona,1280
+stops,stop_name,es,Iruña / Baiona,1280
+stops,stop_name,eu,Gasteiz hiribidea,1024
+stops,stop_name,es,Av. Gasteiz 93,1024
+stops,stop_name,eu,Basaldea / Gerezpea,1211
+stops,stop_name,es,Basaldea / Gerezpea,1211
+stops,stop_name,eu,Oto hiribidea / Azukreola,1194
+stops,stop_name,es,Av. Los Huetos / Azucarera,1194
+stops,stop_name,eu,Lermandabidea / Jundiz,1361
+stops,stop_name,es,Lermandabidea / Jundiz,1361
+stops,stop_name,eu,Jose Maria Cagigal,1142
+stops,stop_name,es,José María Cagigal 5,1142
+stops,stop_name,eu,Jacinto Benavente / Florida,1079
+stops,stop_name,es,Jacinto Benavente / Florida,1079
+stops,stop_name,eu,Gamarrako atea / Kantabrikoaren hiribidea,1124
+stops,stop_name,es,Portal Gamarra / Cantábrico,1124
+stops,stop_name,eu,Iliada / Salburua bulebarra,1379
+stops,stop_name,es,Iliada / Bulevar Salburua,1379
+stops,stop_name,eu,Betoñuko atea,1105
+stops,stop_name,es,Portal Betoño 4,1105
+stops,stop_name,eu,Nafarroako Errege-Erreginak / Telefonika,1327
+stops,stop_name,es,Reyes Navarra / Telefonica,1327
+stops,stop_name,eu,Antonio Amat,1380
+stops,stop_name,es,Antonio Amat 2,1380
+stops,stop_name,eu,Urartea / Alibarra,1188
+stops,stop_name,es,Urartea / Alibarra,1188
+stops,stop_name,eu,Armentiabidea ,1144
+stops,stop_name,es,Camino Armentia,1144
+stops,stop_name,eu,Arriagako atea / Venezuela,1040
+stops,stop_name,es,Portal Arriaga / Venezuela,1040
+stops,stop_name,eu,Paduleta / Mendigorritxu,1204
+stops,stop_name,es,Paduleta / Mendigorritxu,1204
+stops,stop_name,eu,Henry Morton Stanley / Oto hiribidea,1347
+stops,stop_name,es,Henry Morton Stanley / Av Los Huetos,1347
+stops,stop_name,eu,Judimendi,1100
+stops,stop_name,es,Judimendi 7,1100
+stops,stop_name,eu,Teresa Kalkutakoa,1377
+stops,stop_name,es,Teresa Calcuta 8,1377
+stops,stop_name,eu,Baiona,1281
+stops,stop_name,es,Baiona,1281
+stops,stop_name,eu,Oto hiribidea / Handizkariak,1270
+stops,stop_name,es,Av. Los Huetos / Mayoristas,1270
+stops,stop_name,eu,Heraclio Fournier,1249
+stops,stop_name,es,Heraclio Fournier 24,1249
+stops,stop_name,eu,Wellington,1247
+stops,stop_name,es,Wellington,1247
+stops,stop_name,eu,Nazio batuak / Salvador Dali,1325
+stops,stop_name,es,Naciones Unidas / Salvador Dalí,1325
+stops,stop_name,eu,Henry Morton Stanley / Oto hiribidea,1349
+stops,stop_name,es,Henry Morton Stanley / Av Los Huetos,1349
+stops,stop_name,eu,Salbaterrabide,1054
+stops,stop_name,es,Salbatierrabide,1054
+stops,stop_name,eu,Aretxabaleta (herria),1120
+stops,stop_name,es,Aretxabaleta / Pueblo,1120
+stops,stop_name,eu,Euskal Herria,1065
+stops,stop_name,es,Euskal Herria,1065
+stops,stop_name,eu,Martxoak 8,1165
+stops,stop_name,es,8 de marzo 27,1165
+stops,stop_name,eu,Lermandabidea,1220
+stops,stop_name,es,Lermandabidea 4,1220
+stops,stop_name,eu,Gasteiz hiribidea,1018
+stops,stop_name,es,Av. Gasteiz 54,1018
+stops,stop_name,eu,Intermodala,1160
+stops,stop_name,es,Intermodal,1160
+stops,stop_name,eu,Fontetxako Gaztelua / Aretxaga,1071
+stops,stop_name,es,Castillo Fontecha / Aretxaga,1071
+stops,stop_name,eu,Larragana / Bergarako atea,1312
+stops,stop_name,es,Larragana / Portal Bergara,1312
+stops,stop_name,eu,Jundiz / Zurrupitieta,1362
+stops,stop_name,es,Jundiz / Zurrupitieta,1362
+stops,stop_name,eu,Juan Garai / Arriaga,1041
+stops,stop_name,es,Juan de Garay / Arriaga,1041
+stops,stop_name,eu,Betoñu (herria),1108
+stops,stop_name,es,Betoño Pueblo,1108
+stops,stop_name,eu,Legutianoko atea,1093
+stops,stop_name,es,Portal Legutiano 41,1093
+stops,stop_name,eu,Mariturri / Oion,1384
+stops,stop_name,es,Mariturri / Oyón,1384
+stops,stop_name,eu,Esmaltazioak,1078
+stops,stop_name,es,Esmaltaciones,1078
+stops,stop_name,eu,Zurbanoko atea,1345
+stops,stop_name,es,Portal Zurbano 2,1345
+stops,stop_name,eu,Frantzia,1137
+stops,stop_name,es,Francia 23,1137
+stops,stop_name,eu,Oto hiribidea,1335
+stops,stop_name,es,Av. Los Huetos 2,1335
+stops,stop_name,eu,Prado kalea,1296
+stops,stop_name,es,Prado,1296
+stops,stop_name,eu,Armentiabidea ,1147
+stops,stop_name,es,Camino Armentia,1147
+stops,stop_name,eu,Paduleta / Mendigorritxu,1206
+stops,stop_name,es,Paduleta / Mendigorritxu,1206
+stops,stop_name,eu,Madril,1084
+stops,stop_name,es,Madrid 36,1084
+stops,stop_name,eu,Mendigorritxu,1219
+stops,stop_name,es,Mendigorritxu,1219
+stops,stop_name,eu,Zurrupitieta / Jundiz,1217
+stops,stop_name,es,Zurrupitieta / Jundiz,1217
+stops,stop_name,eu,Landaberde ,1127
+stops,stop_name,es,Landaberde,1127
+stops,stop_name,eu,Lermandabidea / Zuazobidea,1215
+stops,stop_name,es,Lermandabidea / Zuazobidea,1215
+stops,stop_name,eu,Madrid / Martxoak 8,1083
+stops,stop_name,es,Madrid / 8 de marzo,1083
+stops,stop_name,eu,Unibertsitatea,1053
+stops,stop_name,es,Unibertsitatea,1053
+stops,stop_name,eu,Gasteiz hiribidea / Bastiturri,1017
+stops,stop_name,es,Av. Gasteiz / Bastiturri,1017
+stops,stop_name,eu,Heraclio Fournier,1250
+stops,stop_name,es,Heraclio Fournier 42,1250
+stops,stop_name,eu,Basaldea / Zurrupitieta,1212
+stops,stop_name,es,Basaldea / Zurripitieta,1212
+stops,stop_name,eu,Gasteiz hiribidea,1026
+stops,stop_name,es,Av. Gasteiz 73,1026
+stops,stop_name,eu,Elvira Zulueta,1328
+stops,stop_name,es,Elvira Zulueta,1328
+stops,stop_name,eu,Izardui Komandantea / Zumakadi,1360
+stops,stop_name,es,Comandante Izarduy / Zumaquera,1360
+stops,stop_name,eu,Luis Olariaga / Gernikako Arbola,1271
+stops,stop_name,es,Luis Olariaga / Gernikako Arbola,1271
+stops,stop_name,eu,Arriagako atea,1134
+stops,stop_name,es,Portal Arriaga 21,1134
+stops,stop_name,eu,Martxoak 8,1183
+stops,stop_name,es,8 de marzo 10,1183
+stops,stop_name,eu,Bremen / Düsseldorf,1351
+stops,stop_name,es,Bremen/Düsseldorf,1351
+stops,stop_name,eu,Herrandarrak,1037
+stops,stop_name,es,Los Herrán 86,1037
+stops,stop_name,eu,Aretxabaleta (herria),1122
+stops,stop_name,es,Aretxabaleta / Pueblo,1122
+stops,stop_name,eu,Olagibel / Anbulatorioa,1181
+stops,stop_name,es,Olaguibel / Ambulatorio,1181
+stops,stop_name,eu,Florida / Jacinto Benavente,1371
+stops,stop_name,es,Florida / Jacinto Benavente,1371
+stops,stop_name,eu,Iruña Veleia / Oion,1382
+stops,stop_name,es,Iruña Veleia / Oyón,1382
+stops,stop_name,eu,Heraclio Fournier,1248
+stops,stop_name,es,Heraclio Fournier 2,1248
+stops,stop_name,eu,Herrandarrak,1035
+stops,stop_name,es,Los Herrán 36,1035
+stops,stop_name,eu,Zumakadi ,1051
+stops,stop_name,es,Zumaquera,1051
+stops,stop_name,eu,Ramiro Maeztu,1155
+stops,stop_name,es,Ramiro Maeztu 6,1155
+stops,stop_name,eu,Arriagako atea,1159
+stops,stop_name,es,Portal Arriaga 20,1159
+stops,stop_name,eu,Paula Montal / Eskolapioak,1346
+stops,stop_name,es,Paula Montal / Escolapias,1346
+stops,stop_name,eu,Fontetxako Gaztelua / Gaztelako atea,1056
+stops,stop_name,es,Castillo Fontecha / Castilla,1056
+stops,stop_name,eu,Urartea / Bitorialanda,1185
+stops,stop_name,es,Urartea / Vitorialanda,1185
+stops,stop_name,eu,Mexiko / Egoitza,1068
+stops,stop_name,es,Mexico / Residencia,1068
+stops,stop_name,eu,Izardui Komandantea,1097
+stops,stop_name,es,Comandante Izarduy 14,1097
+stops,stop_name,eu,Fontetxako Gaztelua / Gaztelako atea,1073
+stops,stop_name,es,Castillo Fontecha / Castilla,1073
+stops,stop_name,eu,Juan Angel Sáez,1374
+stops,stop_name,es,Juan Ángel Sáez,1374
+stops,stop_name,eu,Antonio Machado,1262
+stops,stop_name,es,Antonio Machado 17,1262
+stops,stop_name,eu,Harrobi,1089
+stops,stop_name,es,Harrobi,1089
+stops,stop_name,eu,Giza Eskubideak / Sofia Erregina,1225
+stops,stop_name,es,Derechos Humanos / Reina Sofía,1225
+stops,stop_name,eu,Jacinto Benavente,1048
+stops,stop_name,es,Jacinto Benavente 7,1048
+stops,stop_name,eu,Betoñuko atea,1091
+stops,stop_name,es,Portal Betoño 15,1091
+stops,stop_name,eu,Honduras,1021
+stops,stop_name,es,Honduras,1021
+stops,stop_name,eu,Gamarrako atea,1115
+stops,stop_name,es,Portal Gamarra 41,1115
+stops,stop_name,eu,Arriurdina / Basaldea,1210
+stops,stop_name,es,Arriurdina / Basaldea,1210
+stops,stop_name,eu,Nazio Batuak / Mariturri,1322
+stops,stop_name,es,Naciones Unidas / Mariturri,1322
+stops,stop_name,eu,Florida / Jacinto Benavente,1258
+stops,stop_name,es,Florida / Jacinto Benavente,1258
+stops,stop_name,eu,Errege-Erregina Katolikoak,1039
+stops,stop_name,es,Reyes Católicos 1,1039
+stops,stop_name,eu,Zaramaga / Boulevard,1064
+stops,stop_name,es,Zaramaga / Boulevard,1064
+stops,stop_name,eu,Judimendi / San Juan,1099
+stops,stop_name,es,Judimendi / San Juan,1099
+stops,stop_name,eu,Areatza / Mercedes,1352
+stops,stop_name,es,Las Arenas / Mercedes,1352
+stops,stop_name,eu,Zurrupitieta / Mendigorritxu,1218
+stops,stop_name,es,Zurrupitieta / Mendigorritxu,1218
+stops,stop_name,eu,Bremen,1350
+stops,stop_name,es,Bremen 15,1350
+stops,stop_name,eu,Giza Eskubideak,1224
+stops,stop_name,es,Derechos Humanos 29,1224
+stops,stop_name,eu,Lermandabidea / Jundiz,1364
+stops,stop_name,es,Lermandabidea / Jundiz,1364
+stops,stop_name,eu,Done Jakue hiribidea,1238
+stops,stop_name,es,Av. Santiago 55,1238
+stops,stop_name,eu,Iliada / Gabriel Martínez de Aragón,1340
+stops,stop_name,es,Iliada / Gabriel Martínez Aragón,1340
+stops,stop_name,eu,Ramiro Maeztu,1156
+stops,stop_name,es,Ramiro Maeztu 20,1156
+stops,stop_name,eu,Iruñea / Lizarra,1279
+stops,stop_name,es,Iruña / Lizarra,1279
+stops,stop_name,eu,Brusela / Elorriagako atea,1338
+stops,stop_name,es,Bruselas / Portal Elorriaga,1338
+stops,stop_name,eu,Zaramaga / Nafarroako Errege-Erreginak,1003
+stops,stop_name,es,Zaramaga / Reyes de Navarra,1003
+stops,stop_name,eu,Aragoi,1081
+stops,stop_name,es,Aragón,1081
+stops,stop_name,eu,Oto hiribidea / Ehari,1172
+stops,stop_name,es,Av. Los Huetos / Ali,1172
+stops,stop_name,eu,Adriano VI.a / Buztinzuri,1016
+stops,stop_name,es,Adriano VI / Bustinzuri,1016
+stops,stop_name,eu,Teodoro Dublang / Buztinzuri,1373
+stops,stop_name,es,Teodoro Dublang / Bustinzuri,1373
+stops,stop_name,eu,Gasteiz hiribidea / Epaitegiak,1228
+stops,stop_name,es,Av. Gasteiz / Juzgados,1228
+stops,stop_name,eu,Hegoalde,1052
+stops,stop_name,es,Hegoalde,1052
+stops,stop_name,eu,Tomas Zumarraga Dohatsua / Argentina,1169
+stops,stop_name,es,Bº Tomás Zumarraga / Argentina,1169
+stops,stop_name,eu,Mintegia,1311
+stops,stop_name,es,Viveros,1311
+stops,stop_name,eu,Gamarrako plaza,1126
+stops,stop_name,es,Plaza Gamarra,1126
+stops,stop_name,eu,Tomas Zumarraga Dohatsua,1170
+stops,stop_name,es,Bº Tomás Zumarraga 76,1170
+stops,stop_name,eu,Jundiz / Paduleta,1202
+stops,stop_name,es,Jundiz / Paduleta,1202
+stops,stop_name,eu,Teodoro Dublang,1014
+stops,stop_name,es,Teodoro Dublang 49,1014
+stops,stop_name,eu,Gamarrako atea,1116
+stops,stop_name,es,Portal Gamarra 17,1116
+stops,stop_name,eu,Katedrala,1298
+stops,stop_name,es,Catedral,1298
+stops,stop_name,eu,Urartea / San Miguel Atxakoa,1187
+stops,stop_name,es,Urartea / San Miguel Atxa,1187
+stops,stop_name,eu,Izarbenta / Errekaleor,1255
+stops,stop_name,es,Venta la Estrella / Errekaleor,1255
+stops,stop_name,eu,Dura (geltokia),1310
+stops,stop_name,es,Durana Estación,1310
+stops,stop_name,eu,Giza Eskubideak / Eskibel ibilbidea,1368
+stops,stop_name,es,Derechos Humanos / Paseo Eskibel,1368
+stops,stop_name,eu,Gasteiz hiribidea,1027
+stops,stop_name,es,Av. Gasteiz 45,1027
+stops,stop_name,eu,Martxoak 8,1166
+stops,stop_name,es,8 de marzo 13,1166
+stops,stop_name,eu,Antonio Machado / Paula Montal,1354
+stops,stop_name,es,Antonio Machado/Paula Montal,1354
+stops,stop_name,eu,Martxoak 8,1184
+stops,stop_name,es,8 de marzo 24,1184
+stops,stop_name,eu,Larragana / Bergarako atea,1317
+stops,stop_name,es,Larragana / Portal Bergara,1317
+stops,stop_name,eu,Herrandarrak / Hortaleza,1094
+stops,stop_name,es,Los Herrán  / Hortaleza,1094
+stops,stop_name,eu,Salburua bulebarra / Varsovia,1232
+stops,stop_name,es,Bulevar Salburua / Varsovia,1232
+stops,stop_name,eu,Mariturri / Oion,1330
+stops,stop_name,es,Mariturri / Oyón,1330
+stops,stop_name,eu,Antonio Amat,1344
+stops,stop_name,es,Antonio Amat 5,1344
+stops,stop_name,eu,Forondako atea,1161
+stops,stop_name,es,Portal Foronda 24,1161
+stops,stop_name,eu,Forondako atea,1162
+stops,stop_name,es,Portal Foronda 44,1162
+stops,stop_name,eu,Tomas Zumarraga Dohatsua,1176
+stops,stop_name,es,Bº Tomás Zumarraga 71,1176
+stops,stop_name,eu,Alibarra / Bekolarra,1190
+stops,stop_name,es,Alibarra / Bekolarra,1190
+stops,stop_name,eu,Prado kalea,1179
+stops,stop_name,es,Prado,1179
+stops,stop_name,eu,Brusela hiribidea / Joaquin Collar,1236
+stops,stop_name,es,Av. Bruselas / Joaquín Collar,1236
+stops,stop_name,eu,Jose Maria Cagigal,1149
+stops,stop_name,es,José María Cagigal 4,1149
+stops,stop_name,eu,Katedrala,1297
+stops,stop_name,es,Catedral,1297
+stops,stop_name,eu,Mendizorrotza,1074
+stops,stop_name,es,Mendizorrotza,1074
+stops,stop_name,eu,Zurrupitieta / Mendigorritxu,1367
+stops,stop_name,es,Zurrupitieta / Mendigorritxu,1367
+stops,stop_name,eu,Legutianoko atea / Iparralde,1006
+stops,stop_name,es,Portal Legutiano / Iparralde,1006
+stops,stop_name,eu,Gaztelako atea,1154
+stops,stop_name,es,Castilla 9,1154
+stops,stop_name,eu,Esmaltazioak,1392
+stops,stop_name,es,Esmaltaciones,1392
+stops,stop_name,eu,Arriagako atea / Laskarai,1272
+stops,stop_name,es,Portal Arriaga / Lascaray,1272
+stops,stop_name,eu,Txagorritxu,1066
+stops,stop_name,es,Txagorritxu,1066
+stops,stop_name,eu,Adriano VI.a,1178
+stops,stop_name,es,Adriano VI 1,1178
+stops,stop_name,eu,Teodoro Dublang / Buztinzuri,1015
+stops,stop_name,es,Teodoro Dublang / Bustinzuri,1015
+stops,stop_name,eu,Nafarroako Errege-Erreginak,1103
+stops,stop_name,es,Reyes Navarra 10,1103
+stops,stop_name,eu,Salburua bulebarra / Europar Batasuna,1164
+stops,stop_name,es,Bulevar Salburua / Plaza Unión,1164
+stops,stop_name,eu,Nazio Batuak / Unicefen ibilbidea,1226
+stops,stop_name,es,Naciones Unidas / Paseo Unicef,1226
+stops,stop_name,eu,Mendizorrotza,1055
+stops,stop_name,es,Mendizorrotza,1055
+stops,stop_name,eu,Aztegieta,1192
+stops,stop_name,es,Asteguieta,1192
+stops,stop_name,eu,Unibertsitatea,1075
+stops,stop_name,es,Unibertsitatea,1075
+stops,stop_name,eu,Gasteiz hiribidea,1028
+stops,stop_name,es,Av. Gasteiz 19,1028
+stops,stop_name,eu,Mariturri / Sofia Erregina,1385
+stops,stop_name,es,Mariturri / Reina Sofía,1385
+stops,stop_name,eu,Salburua bulebarra / Valletta,1233
+stops,stop_name,es,Bulevar Salburua / La Valletta,1233
+stops,stop_name,eu,Larragana / Kapelamendi,1316
+stops,stop_name,es,Larragana / Kapelamendi,1316
+stops,stop_name,eu,Madril / Arantzabela,1082
+stops,stop_name,es,Madrid / Aranzabela,1082
+stops,stop_name,eu,Urartea / Bitoriabide,1186
+stops,stop_name,es,Urartea / Vitoriabidea,1186
+stops,stop_name,eu,Gamarrako atea / Kantabrikoaren hiribidea,1117
+stops,stop_name,es,Portal Gamarra / Cantábrico,1117
+stops,stop_name,eu,Donostia,1130
+stops,stop_name,es,Donostia 11,1130
+stops,stop_name,eu,Jacinto Benavente,1394
+stops,stop_name,es,Jacinto Benavente 2,1394
+stops,stop_name,eu,Arriagako atea / Venezuela,1133
+stops,stop_name,es,Portal Arriaga / Venezuela,1133
+stops,stop_name,eu,Arriurdina / Jundiz,1201
+stops,stop_name,es,Arriurdina / Júndiz,1201
+stops,stop_name,eu,Micaela Portilla / Epaitegiak,1275
+stops,stop_name,es,Micaela Portilla / Juzgados,1275
+stops,stop_name,eu,Jacinto Benavente / Florida,1395
+stops,stop_name,es,Jacinto Benavente/Florida,1395
+stops,stop_name,eu,Bake kalea,1300
+stops,stop_name,es,Paz,1300
+stops,stop_name,eu,Izarbenta / Oreitiasolo,1376
+stops,stop_name,es,Venta La Estrella / Oreitiasolo,1376
+stops,stop_name,eu,Europa,1019
+stops,stop_name,es,Europa,1019
+stops,stop_name,eu,Mexiko / Egoitza,1061
+stops,stop_name,es,Mexico / Residencia,1061
+stops,stop_name,eu,Gamarrako atea,1123
+stops,stop_name,es,Portal Gamarra 28,1123
+stops,stop_name,eu,Iruña Veleia / Giza eskubideak,1331
+stops,stop_name,es,Iruña Veleia / Derechos Humanos,1331
+stops,stop_name,eu,Valladolid / Andaluzia,1182
+stops,stop_name,es,Valladolid / Andalucía,1182
+stops,stop_name,eu,Olagibel,1180
+stops,stop_name,es,Olaguibel 20,1180
+stops,stop_name,eu,Zabalgana,1240
+stops,stop_name,es,Zabalgana 39,1240
+stops,stop_name,eu,Guillermo Elio,1342
+stops,stop_name,es,Guillermo Elio,1342
+stops,stop_name,eu,Oto hiribidea / Antonio Machado,1173
+stops,stop_name,es,Av. Los Huetos / Antonio Machado,1173
+routes,route_long_name,es,Circular,1
+routes,route_long_name,es,BEI A,A
+routes,route_long_name,es,BEI B,B
+routes,route_long_name,es,Betoño - Zumaquera,3
+routes,route_long_name,es,Lakua - Marituri,4
+routes,route_long_name,es,Salburua - Sansomendi,5
+routes,route_long_name,es,Zabalgana - Arkaiate,6
+routes,route_long_name,es,Borinbizkarra-Salburua,7
+routes,route_long_name,es,Unibertsitatea,8
+routes,route_long_name,es,Gamarra - Zumaquera,9
+routes,route_long_name,es,Aldaia - Larrein,10
+routes,route_long_name,es,Cementerio El Salvador,E1
+routes,route_long_name,es,Fernando Buesa Arena,E3
+routes,route_long_name,es,Fernando Buesa Arena,E4
+routes,route_long_name,es,San Prudencio,ES
+routes,route_long_name,es,Especial Alavés B,E6
+routes,route_long_name,es,Abetxuko,E7
+routes,route_long_name,es,Especial conciertos Buesa Arena,E8
+routes,route_long_name,es,Lakua - Abetxuko,G1
+routes,route_long_name,es,Adurtza - Errekaleor,G2
+routes,route_long_name,es,Armentia - Zabalgana,G3
+routes,route_long_name,es,Sansomendi - Lakua,G4
+routes,route_long_name,es,Salburua - Aranbizkarra,G6
+routes,route_long_name,es,Especial Alavés A,E5
+routes,route_long_name,es,Ferial,F
+routes,route_long_name,es,Ferial Nocturno,FN
+routes,route_long_name,es,Baskonia Noche,N1
+routes,route_long_name,es,Eventos Buesa noche,N2
+routes,route_long_name,es,Especial mendi A nocturno,N3
+routes,route_long_name,es,Especial mendi B nocturno,N4
+routes,route_long_name,eu,1. linea: Gasteizko zirkularra,1
+routes,route_long_name,eu,Gasteizko BEI A linea,A
+routes,route_long_name,eu,Gasteizko BEI B linea,B
+routes,route_long_name,eu,3. linea: Betoño - Zumakadi,3
+routes,route_long_name,eu,4. linea: Lakua - Mariturri,4
+routes,route_long_name,eu,5. linea: Salburua - Sansomendi,5
+routes,route_long_name,eu,6. linea: Zabalgana - Arkaiate,6
+routes,route_long_name,eu,7. linea: Borinbizkarra-Salburua,7
+routes,route_long_name,eu,8. linea: Unibertsitatea,8
+routes,route_long_name,eu,9. linea: Gamarra - Zumakadi,9
+routes,route_long_name,eu,10. linea: Aldaia - Lirrein,10
+routes,route_long_name,eu,E1: Salbatzailearen hilerriko linea,E1
+routes,route_long_name,eu,E3: Buesa Arena linea,E3
+routes,route_long_name,eu,E4: Buesa Arena linea,E4
+routes,route_long_name,eu,ES linea: Prudentzio Deuna,ES
+routes,route_long_name,eu,E6: Alaves taldearen partidetarako zerbitzu berezia,E6
+routes,route_long_name,eu,E7: Zerbitzu berezia Abetxukura,E7
+routes,route_long_name,eu,E8: Buesa Arena kontzertu bereziak,E8
+routes,route_long_name,eu,G1 linea: Gautxoriaren 1. linea. Lakua-Abetxuku,G1
+routes,route_long_name,eu,G2 linea: Gautxoriaren 2. linea. Adurtza-Salburua,G2
+routes,route_long_name,eu,G3 linea: Gautxoriaren 3. linea. Armentia-Zabalgana,G3
+routes,route_long_name,eu,G4 linea: Gautxoriaren 4. linea. Sansomendi-Lakua,G4
+routes,route_long_name,eu,G6 linea: Gautxoriaren 6. linea. Salburua-Aranbizkarra,G6
+routes,route_long_name,eu,E5: Alaves taldearen partidetarako zerbitzu berezia,E5
+routes,route_long_name,eu,F linea: Azoka,F
+routes,route_long_name,eu,FN linea: Gau-azoka,FN
+routes,route_long_name,eu,N1: Buesa Arena linea,N1
+routes,route_long_name,eu,N2: Buesa Arena linea,N2
+routes,route_long_name,eu,N3: Alaves taldearen partidetarako zerbitzu berezia,N3
+routes,route_long_name,eu,N4: Buesa Arena kontzertu bereziak,N4
