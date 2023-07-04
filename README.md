@@ -40,7 +40,7 @@ docker run --rm -ti -p 8888:8888 -v ${PWD}:/home/jovyan/work darribas/gds_py:9.0
 | 11:00 - 11:20 |  2. OSM |        Lecture: OSM  |
 | 11:20 - 11:40 |  2. OSM |        Hands-on: OSM  |
 | 11:40 - 11:45 |   |        *5 min break*  |
-| 11:45 - 12:30 |  3. Spatial Networks |        Workshop: Spatial Networks  |
+| 11:45 - 12:30 |  3. Spatial Networks |        Workshop: Spatial Networks With Geopandas  |
 
 <!-- - schedule markdown table +links to materials -->
 
