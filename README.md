@@ -28,18 +28,16 @@ docker run --rm -ti -p 8888:8888 -v ${PWD}:/home/jovyan/work darribas/gds_py:9.0
 
 ## 📅 Schedule
 
-| July 17, 2023 | Part | Session |
-|--------------:|-----:|-----------:|
-| 09:00 - 09:05 |   |        Introduction  |
-| 09:05 - 09:20 |  1. Basics |        Lecture: Data & Geometry, CRS, Libraries  |
-| 09:20 - 09:40 |  1. Basics |        Hands-on: Data & Geometry, CRS, Libraries  |
-| 09:40 - 09:50 |  1. Basics |        *10 min break*  |
-| 09:50 - 10:10 |  1. Basics |        Lecture: Choropleth maps, Spatial autocorrelation  |
-| 10:10 - 10:20 |  1. Basics |        Hands-on: Choropleth maps, Spatial autocorrelation  |
+| July 17, 2023 | Part | Topic |
+|--------------:|:-----|-----------|
+| 09:00 - 09:05 |  0. Introduction |        Introduction  |
+| 09:05 - 09:40 |  1. Data Handling |        Data & Geometry, CRS, Libraries  |
+| 09:40 - 09:50 |  |        *10 min break*  |
+| 09:50 - 10:20 |  2. Spatial Statistics |        Choropleth Maps, Spatial Autocorrelation  |
 | 10:30 - 11:00 |   |        *30 min break*  |
-| 11:00 - 11:35 |  2. OSM |        Introduction to OSM & OSMnx  |
+| 11:00 - 11:35 |  3. OpenStreetMap |        Introduction to OSM & OSMnx  |
 | 11:35 - 11:45 |   |        *10 min break*  |
-| 11:45 - 12:30 |  3. Spatial Networks |        Workshop: Spatial Networks With Geopandas  |
+| 11:45 - 12:30 |  4. Spatial Networks |        Spatial Networks with Geopandas  |
 
 <!-- - schedule markdown table +links to materials -->
 
