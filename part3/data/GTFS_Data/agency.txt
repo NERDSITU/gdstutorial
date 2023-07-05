@@ -1,2 +1,0 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
-c-6392dd86,Tuvisa,https://www.vitoria-gasteiz.org/tuvisa,Europe/Madrid,es,(+34) 945 16 10 54,,tuvisa@vitoria-gasteiz.org
