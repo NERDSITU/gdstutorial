@@ -6,7 +6,7 @@ This is the resource page for the [Geospatial Data Science Tutorial](https://www
 
 *Before the tutorial*, install `gds_py` (version 9.0) from `gds_env`: [https://darribas.org/gds\_env/stacks/gds\_py/#install](https://darribas.org/gds_env/stacks/gds_py/#install)
 
-We recommend using the Docker image according to the [instructions](https://darribas.org/gds_env/guides/docker_install/), but a conda version is also available. The Docker image will require 4 GB of storage space. 
+We recommend using the Docker image according to the [instructions](https://darribas.org/gds_env/guides/docker_install/), but a conda version is also available. The Docker image will require 4 GB of storage space.
 
 When done with the installations, test that the notebook [installtest.ipynb](installtest.ipynb) runs without errors. We will use its imported libraries during the tutorial.
 
@@ -33,18 +33,17 @@ docker run --rm -ti -p 8888:8888 -v ${PWD}:/home/jovyan/work darribas/gds_py:9.0
 | 09:00 - 09:05 |   |        Introduction  |
 | 09:05 - 09:20 |  1. Basics |        Lecture: Data & Geometry, CRS, Libraries  |
 | 09:20 - 09:40 |  1. Basics |        Hands-on: Data & Geometry, CRS, Libraries  |
-| 09:40 - 09:45 |  1. Basics |        *5 min break*  |
-| 09:45 - 10:05 |  1. Basics |        Lecture: Choropleth maps, Spatial autocorrelation  |
-| 10:05 - 10:30 |  1. Basics |        Hands-on: Choropleth maps, Spatial autocorrelation  |
+| 09:40 - 09:50 |  1. Basics |        *10 min break*  |
+| 09:50 - 10:10 |  1. Basics |        Lecture: Choropleth maps, Spatial autocorrelation  |
+| 10:10 - 10:20 |  1. Basics |        Hands-on: Choropleth maps, Spatial autocorrelation  |
 | 10:30 - 11:00 |   |        *30 min break*  |
-| 11:00 - 11:20 |  2. OSM |        Lecture: OSM  |
-| 11:20 - 11:40 |  2. OSM |        Hands-on: OSM  |
-| 11:40 - 11:45 |   |        *5 min break*  |
+| 11:00 - 11:35 |  2. OSM |        Introduction to OSM & OSMnx  |
+| 11:35 - 11:45 |   |        *10 min break*  |
 | 11:45 - 12:30 |  3. Spatial Networks |        Workshop: Spatial Networks With Geopandas  |
 
 <!-- - schedule markdown table +links to materials -->
 
-## 🧑‍🏫 About us 
+## 🧑‍🏫 About us
 
 We come from the research group [**NERDS**](<https://nerds.itu.dk/>) (NEtwoRks, Data & Society), Computer Science Department, IT University of Copenhagen.
 
@@ -56,7 +55,7 @@ We come from the research group [**NERDS**](<https://nerds.itu.dk/>) (NEtwoRks, 
 
 **Get in touch:** Michael Szell: <misz@itu.dk> • Anastassia Vybornova: <anvy@itu.dk> • Ane Rahbek Vierø: <anev@itu.dk>
 
-## 📚 Resources 
+## 📚 Resources
 
 This tutorial is based on materials from our course in Geospatial Data Science, offered as part of the ITU master in data science: <https://github.com/mszell/geospatialdatascience>
 
@@ -75,7 +74,10 @@ See also the excellent introductions to geographic data analysis with Python by 
 
 ### OpenStreetMap
 
-**TBA**
+* [OpenStreetMap (OSM)](https://www.openstreetmap.org/)
+* [OSM Wiki](https://wiki.openstreetmap.org/wiki/Main_Page)
+* [OSMnx tutorials](https://github.com/gboeing/osmnx-examples)
+* [Introduction to the OSM data model](https://alga.win.tue.nl/tutorials/openstreetmap/)
 
 ### Spatial Networks
 
