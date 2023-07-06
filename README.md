@@ -33,7 +33,7 @@ docker run --rm -ti -p 8888:8888 -v ${PWD}:/home/jovyan/work darribas/gds_py:9.0
 | 09:00 - 09:05 |  0. Introduction |        Introduction  |
 | 09:05 - 09:40 |  1. Data Handling |        Data & Geometry, CRS, Libraries  |
 | 09:40 - 09:50 |  |        *10 min break*  |
-| 09:50 - 10:20 |  2. Spatial Statistics |        Choropleth Maps, Spatial Autocorrelation  |
+| 09:50 - 10:30 |  2. Spatial Statistics |        Choropleth Maps, Spatial Autocorrelation  |
 | 10:30 - 11:00 |   |        *30 min break*  |
 | 11:00 - 11:35 |  3. OpenStreetMap |        Introduction to OSM & OSMnx  |
 | 11:35 - 11:45 |   |        *10 min break*  |
