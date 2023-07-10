@@ -18,13 +18,17 @@ When done with the installations, test that the notebook [installtest.ipynb](ins
 git clone https://github.com/NERDSITU/gdstutorial
 ```
 
-2. Run the Docker image: Navigate to the folder with the course materials in a terminal window and run:
+2. In your terminal window, navigate to the folder with the course materials (`gdstutorial`)  
+
+3. Run the Docker image from the terminal:
 
 ```
 docker run --rm -ti -p 8888:8888 -v ${PWD}:/home/jovyan/work darribas/gds_py:9.0
 ```
 
-3. You can now run the Jupyter notebooks using either Jupyter in the browser (use the link printed in your terminal window) or with your code editor of choice. In VS Code choose 'Select kernel' > 'Existing Jupyter Server' and the server name will appear.
+Note that you must first have completed the preparations (see above) to be able to run the Docker image.
+
+4. You can now run the Jupyter notebooks using either Jupyter in the browser (use the link printed in your terminal window) or with your code editor of choice. If in Visual Studio Code, choose `Select kernel` > `Existing Jupyter Server` and the server name will appear.
 
 ## 📅 Schedule
 
