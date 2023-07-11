@@ -12,6 +12,8 @@ When done with the installations, test that the notebook [installtest.ipynb](ins
 
 ## 🕹️ Running the notebooks
 
+After preparations:  
+
 1. Clone this repository to download the Jupyter notebooks to your own machine:
 
 ```
@@ -25,8 +27,6 @@ git clone https://github.com/NERDSITU/gdstutorial
 ```
 docker run --rm -ti -p 8888:8888 -v ${PWD}:/home/jovyan/work darribas/gds_py:9.0
 ```
-
-Note that you must first have completed the preparations (see above) to be able to run the Docker image.
 
 4. You can now run the Jupyter notebooks using either Jupyter in the browser (use the link printed in your terminal window) or with your code editor of choice. If in Visual Studio Code, choose `Select kernel` > `Existing Jupyter Server` and the server name will appear.
 
